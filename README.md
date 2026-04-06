@@ -798,25 +798,3 @@ python training/train_cnn.py --model mobilenet_v2
 ```
 
 ---
-
-## Citation
-
-```bibtex
-@misc{dog-emotion-classification,
-  author = {Michal Kopczynski},
-  title = {Dog Emotion Classification using Deep Learning},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/dog-emotion-classification}
-}
-```
-
----
-
-## License
-
-MIT License
-
----
-
-**Last Updated**: April 2024
